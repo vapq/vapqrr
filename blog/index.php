@@ -24,7 +24,7 @@
 <div id="divbody"><div class="content">
 
 <h3><a class="ablack" href="h1setting-up-a-mailserverh1.html">
-<h1>hi</h1>
+<h1>Website Updating With GIT PUSH and GIT COMMIT!</h1>
 
 </a></h3>
 
@@ -33,4 +33,4 @@ avery
 </div>
 <!-- text begin -->
 
-<p>ok, first blog post! going good, i guess :shrug:</p>
+<p>we are now updating with GIT!</p>
