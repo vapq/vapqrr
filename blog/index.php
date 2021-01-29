@@ -23,14 +23,14 @@
 
 <div id="divbody"><div class="content">
 
-<h3><a class="ablack" href="h1setting-up-a-mailserverh1.html">
-<h1>Website Updating With GIT PUSH and GIT COMMIT!</h1>
+<h3><a class="ablack" href="">
+<h1>Anthony's Quote</h1>
 
 </a></h3>
 
 <div class="subtitle">January 29, 2021 &mdash; 
-avery
+hellfire5655
 </div>
 <!-- text begin -->
 
-<p>we are now updating with GIT!</p>
+<p>i just got a drawing tablet and i can finnaly get good at osu - hellfire5655</p>
