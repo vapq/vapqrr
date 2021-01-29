@@ -1,5 +1,11 @@
 <html>
 <body>
-<a>Error: Invalid usage of API, try again!</a>
+<a href="dashboard.php">Dashboard</a>
+<hr />
+ <a href="dashboard.php">Dashboard</a>
+<hr />
+ <a href="dashboard.php">Dashboard</a>
+<hr />
+ 
 </body>
 </html>
