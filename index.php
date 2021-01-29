@@ -47,7 +47,7 @@
 <h1 style="font-size: 18px;">im vapqrr, you can also just call me avery.</h1>
 <hr>
 <h1 style="font-size: 24px;">who even are you?</h1>
-<p style="display:inline">well, im just a random guy on the internet who is interested in tech. i live in the us. you can find more stuff about/from me from the buttons at the top.</p>
+	<p style="display:inline">well, i'm the founder and CEO of <a href="https://vapq.cf">https://vapq.cf.</a></p>
 </div>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="cdcaf6bfe208e7e6e78e4579-|49" defer=""></script></body>
 </html>
