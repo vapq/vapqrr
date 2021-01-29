@@ -46,6 +46,7 @@
 <h1>hey! welcome to my website.</h1>
 <h1 style="font-size: 18px;">im vapqrr, you can also just call me avery.</h1>
 <hr>
+<h1>FAQ:</h1>
 <h1 style="font-size: 24px;">who even are you?</h1>
 	<p style="display:inline">well, i'm the founder and CEO of <a href="https://vapq.cf">https://vapq.cf.</a></p>
 </div>
