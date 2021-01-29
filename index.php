@@ -36,7 +36,7 @@
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav navbar-nav navbar-right">
 <li>
-<a href="">blog [not finished]</a>
+<a href="/blog">blog</a>
 </li>
 </ul>
 </div>
