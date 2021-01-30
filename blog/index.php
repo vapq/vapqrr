@@ -28,9 +28,9 @@
 
 </a></h3>
 
-<div class="subtitle">January 29, 2021 &mdash; 
+<div class="subtitle">January 30, 2021 &mdash; 
 hellfire5655
 </div>
 <!-- text begin -->
 
-<p>i just got a drawing tablet and i can finnaly get good at osu - hellfire5655</p>
+<p>i think im going to start building osu - hellfire5655</p>
