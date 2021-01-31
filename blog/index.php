@@ -24,13 +24,13 @@
 <div id="divbody"><div class="content">
 
 <h3><a class="ablack" href="">
-<h1>Anthony's Quote</h1>
+<h1>nukeoryx</h1>
 
 </a></h3>
 
-<div class="subtitle">January 30, 2021 &mdash; 
-hellfire5655
+<div class="subtitle">January 31, 2021 &mdash; 
+vapqrr
 </div>
 <!-- text begin -->
 
-<p>i think im going to start building osu - hellfire5655</p>
+<p>i now work for nukeoryx</p>
